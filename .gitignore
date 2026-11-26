@@ -1,0 +1,5 @@
+dist/
+*.exe
+*.log
+Thumbs.db
+desktop.ini
